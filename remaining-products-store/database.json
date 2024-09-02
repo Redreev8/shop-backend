@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "driver": "pg",
+        "user": "postgres",
+        "host": "localhost",
+        "database": "remaining_goods_store",
+        "password": "c8hcthutq",
+        "port": "6666"
+    }
+}
